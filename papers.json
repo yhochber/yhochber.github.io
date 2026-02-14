@@ -1,0 +1,386 @@
+{
+  "published": [
+    {
+      "title": "The Cost of Convenience: Ridehailing and Traffic Fatalities",
+      "date": "2023",
+      "authors": ["John Barrios", "Hanyi Livia Yi"],
+      "publication": "Journal of Operations Management",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Launching with a Parachute: The Gig Economy and Entrepreneurial Entry",
+      "date": "2022",
+      "authors": ["John Barrios", "Hanyi Livia Yi"],
+      "publication": "Journal of Financial Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "The Rise of Dual Class Stock IPOs",
+      "date": "2022",
+      "authors": ["Ofer Eldar", "Lubomir Litov"],
+      "publication": "Journal of Financial Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Should Defined Contribution Plans Include Private Equity Investments?",
+      "date": "2022",
+      "authors": ["Gregory Brown", "Keith Crouch", "Andra Ghent", "Robert Harris", "Tim Jenkinson", "Steven Kaplan", "Richard Maxwell", "David Robinson"],
+      "publication": "Financial Analysts Journal",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Civic Capital and Social Distancing during the Covid-19 Pandemic",
+      "date": "2020",
+      "authors": ["John Barrios", "Efraim Benmelech", "Paola Sapienza", "Luigi Zingales"],
+      "publication": "Journal of Public Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Risk Perceptions and Politics: Evidence from the COVID-19 Pandemic",
+      "date": "2020",
+      "authors": ["John Barrios"],
+      "publication": "Journal of Financial Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "The Design and Evaluation of Startup Accelerators",
+      "date": "2019",
+      "authors": ["Susan Cohen", "Dan Fehder", "Fiona Murray"],
+      "publication": "Research Policy",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Patent Collateral, Investor Commitment, and the Market for Venture Lending",
+      "date": "2018",
+      "authors": ["Carlos Serrano", "Rosemarie Ziedonis"],
+      "publication": "Journal of Financial Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Political Representation and Governance: Evidence from the Investment Decisions of Public Pension Funds",
+      "date": "2018",
+      "authors": ["Aleksander Andonov", "Joshua Rauh"],
+      "publication": "Journal of Finance",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Market Timing and Investment Selection: Evidence from Real Estate Investors",
+      "date": "2016",
+      "authors": ["Tobias Muhlhofer"],
+      "publication": "Journal of Financial and Quantitative Analysis",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Accelerating Entrepreneurs and Ecosystems: The Seed Accelerator Model",
+      "date": "2015",
+      "authors": [],
+      "publication": "Innovation Policy and the Economy",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Accelerators and Ecosystems",
+      "date": "2015",
+      "authors": ["Daniel Fehder"],
+      "publication": "Science",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Intangible but Bankable",
+      "date": "2015",
+      "authors": ["Carlos Serrano", "Rosemarie Ziedonis"],
+      "publication": "Science",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Resource Accumulation through Economic Ties: Evidence from Venture Capital",
+      "date": "2015",
+      "authors": ["Laura Lindsey", "Mark Westerfield"],
+      "publication": "Journal of Financial Economics",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Specialization and Competition in the Venture Capital Industry",
+      "date": "2015",
+      "authors": ["Michael Mazzeo", "Ryan McDevitt"],
+      "publication": "Review of Industrial Organization",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Informational Hold-up and Performance Persistence in Venture Capital",
+      "date": "2014",
+      "authors": ["Alexander Ljungqvist", "Annette Vissing-Jorgensen"],
+      "publication": "Review of Financial Studies",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": ["Argentum Prize for Best Paper in Private Equity, European Financial Association (2009)"]
+    },
+    {
+      "title": "Local Overweighting and Underperformance: Evidence from Limited Partner Private Equity Investments",
+      "date": "2013",
+      "authors": ["Joshua Rauh"],
+      "publication": "Review of Financial Studies",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Venture Capital and Corporate Governance in the Newly Public Firm",
+      "date": "2012",
+      "authors": [],
+      "publication": "Review of Finance",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Networking as a Barrier to Entry and the Competitive Supply of Venture Capital",
+      "date": "2010",
+      "authors": ["Alexander Ljungqvist", "Yang Lu"],
+      "publication": "Journal of Finance",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Incentives, Targeting, and Firm Performance: An Analysis of Non-Executive Options",
+      "date": "2010",
+      "authors": ["Laura Lindsey"],
+      "publication": "Review of Financial Studies",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "A Lobbying Approach to Evaluating the Sarbanes-Oxley Act of 2002",
+      "date": "2009",
+      "authors": ["Paola Sapienza", "Annette Vissing-Jorgensen"],
+      "publication": "Journal of Accounting Research",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Whom You Know Matters: Venture Capital Networks and Investment Performance",
+      "date": "2007",
+      "authors": ["Alexander Ljungqvist", "Yang Lu"],
+      "publication": "Journal of Finance",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": ["Winner of Emerald Citation of Excellence award (2011 and 2014)", "Top cited paper in the Journal of Finance (2009)"]
+    },
+    {
+      "title": "Is IPO Underperformance a Peso Problem?",
+      "date": "2007",
+      "authors": ["Andrew Ang", "Li Gu"],
+      "publication": "Journal of Financial and Quantitative Analysis",
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    }
+  ],
+  "working": [
+    {
+      "title": "Learning When to Quit: A Field Experiment with Innovation-Driven Startups",
+      "date": "2024",
+      "authors": ["Esther Bailey", "Daniel Fehder", "Eric Floyd", "Daniel Lee"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "The Virtuous Cycle of Innovation and Capital Flows",
+      "date": "2024",
+      "authors": ["Daniel Fehder", "Naomi Hausman"],
+      "publication": null,
+      "summary": "Revise and Resubmit, Journal of Financial Economics",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Innovation-Driven Entrepreneurship",
+      "date": "2023",
+      "authors": ["Tristan Botelho", "Daniel Fehder"],
+      "publication": null,
+      "summary": "Commissioned by Journal of Economic Literature",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Informing Entrepreneurs: Public Corporate Disclosure and New Business Formation",
+      "date": "2023",
+      "authors": ["John Barrios", "Jung Ho Choi", "Jinhwan Kim", "Miao Liu"],
+      "publication": null,
+      "summary": "Under review, Journal of Accounting Research",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Inventor Gender and Patent Citations: Evidence from Causal Text Estimation",
+      "date": "2022",
+      "authors": ["Ali Kakhbod", "Peiyao Li", "Kunal Sachdeva"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Rugged Entrepreneurs: Individualism and The Geographic Distribution of New Business Formation",
+      "date": "2022",
+      "authors": ["John Barrios", "Danielle Macciocchi"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Something in the Water? Persistence in the Geographic Distribution of Entrepreneurial and Innovative Activities",
+      "date": "2022",
+      "authors": ["John Barrios", "Danielle Macciocchi"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "University Research, Technology Commercialization, and Location",
+      "date": "2022",
+      "authors": ["Daniel Fehder", "Naomi Hausman", "Daniel Lee"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Can Accelerators Accelerate Local High-Growth Entrepreneurship? Evidence from Venture-Backed Startups",
+      "date": "2021",
+      "authors": ["Dan Fehder"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Taxing Carried Interest as Ordinary Income and the Potential Impact on New Venture Fund Formation",
+      "date": "2021",
+      "authors": ["John Barrios"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "The Impact of COVID-19 Crisis on Risk Tolerance for Innovation-Driven Entrepreneurs",
+      "date": "2020",
+      "authors": ["Esther Bailey", "Daniel Fehder", "Eric Floyd", "Daniel Lee"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "What Resources Garner Managerial Attention in Startups? Evidence from a Randomized Controlled Trial",
+      "date": "2019",
+      "authors": ["Daniel Fehder", "Daniel Lee"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Accelerating Startups: The Seed Accelerator Phenomenon",
+      "date": "2014",
+      "authors": ["Susan Cohen"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "Capital-Market Competitiveness and Managerial Investment Decisions: Evidence from Commercial Real Estate",
+      "date": "2014",
+      "authors": ["Tobias Muhlhofer"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    },
+    {
+      "title": "The Size and Specialization of Direct Investment Portfolios",
+      "date": "2012",
+      "authors": ["Mark Westerfield"],
+      "publication": null,
+      "summary": "",
+      "pdf_link": null,
+      "figures": [],
+      "awards": null
+    }
+  ]
+}
