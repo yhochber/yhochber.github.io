@@ -18,7 +18,7 @@ const getArticles = (type) => {
     const authorsSTR = (authors) => {
         let res = ``
         for(let i = 0; i < authors.length; i++){
-            res += `${authors[i]}${i != i - 1 ? `, ` : ``}`
+            res += `${authors[i]}${i != authors.length - 1 ? `, ` : ``}`
         }
         return res
     }
@@ -41,41 +41,28 @@ const getArticles = (type) => {
             for(let i = 0; i < articles.length; i ++){
                 const article = createElement("div", `article-view`, ``, null)
                 article.id = articles[i].title
-                console.log("article", article)
-                const column = createElement("div", `article-column`, ``, null)
-                const topView = document.createElement("div")
-                topView.style.display = "flex"
-                topView.style.flexDirection = "row"
-                topView.style.flexWrap = "wrap"
-                topView.style.width = "100vw"
-                topView.style.alignItems = "center"
                 if(articles[i].date != null){
-                    const date = createElement("div", `article-date`, articles[i].date, topView)
+                    const date = createElement("div", `article-date`, articles[i].date, article)
                 }
-                if(articles[i].awards != null){
-                    console.log(articles[i].awards)
-                    for(let x = 0; x < articles[i].awards.length; x++ ){
-                        const award = createElement("div", `article-award`, articles[i].awards[x], topView)
-                    }
-                }
-                column.appendChild(topView)
+                const column = createElement("div", `article-column`, ``, null)
                 const title = createElement("div", `article-title`, articles[i].title.toUpperCase(), column)
                 if(articles[i].authors != null  && articles[i].authors.length > 0){
                     const authors = createElement("div", `article-with`, `WITH ${authorsSTR(articles[i].authors)}`, column)
                 }
                 const publication = createElement("div", `article-at`, articles[i].publication != null ? articles[i].publication : "", column)
-                const summary = createElement("div", `article-sum`, articles[i].summary, column)
+                if(articles[i].summary){
+                    const summary = createElement("div", `article-sum`, articles[i].summary, column)
+                }
+                if(articles[i].awards != null){
+                    for(let x = 0; x < articles[i].awards.length; x++ ){
+                        const award = createElement("div", `article-award`, articles[i].awards[x], column)
+                    }
+                }
                 if(articles[i].pdf_link != null){
                     const pdf = createElement("a", `article-pdf`, `PDF`, column)
                     pdf.href = articles[i].pdf_link
                 }
-                const figures = createElement("div", `article-figure-view`, '', null)
-                for(let x = 0; x < articles[i].figures.length; x++){
-                    const figure = createElement("img", `article-figure`, ``, figures)
-                    figure.src = articles[i].figures[x]
-                }
                 article.appendChild(column)
-                article.appendChild(figures)
                 content.appendChild(article)
     
             }
@@ -122,17 +109,10 @@ const getArticles = (type) => {
                 const article = createElement("a", `article-view`, ``, null)
                 article.href = `${res["working"].includes(articles[i]) ? "progress" : "research"}.html?article=${articles[i].title}`
                 article.classList.add(`all_research-article`)
-                const column = createElement("div", `article-column`, ``, null)
-                const topView = document.createElement("div")
-                topView.style.display = "flex"
-                topView.style.flexDirection = "row"
-                topView.style.flexWrap = "wrap"
-                topView.style.width = "100vw"
-                topView.style.alignItems = "center"
-                column.appendChild(topView)
                 if(articles[i].date != null){
-                    const date = createElement("div", `article-date`, articles[i].date, topView)
+                    const date = createElement("div", `article-date`, articles[i].date, article)
                 }
+                const column = createElement("div", `article-column`, ``, null)
                 const title = createElement("div", `article-title`, articles[i].title.toUpperCase(), column)
                 if(articles[i].authors != null  && articles[i].authors.length > 0){
                     const authors = createElement("div", `article-with`, `WITH ${authorsSTR(articles[i].authors)}`, column)
